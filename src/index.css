@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: "Maitree", serif;
+  text-align: center;
+  color: #43a047;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar {
+  background: #43a047;
+  padding: 20px;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 1.5rem;
+}
+
+.container-images{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.image{
+  height: 270px;
+  width: 280px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-weight: bold;
+
+}
+
+
+.info-image{
+  margin-top: 4rem;
+  color: white;
+
+}
+
+.heart{
+  margin-top:6rem;
+}
+
+.info-images{
+  margin-top:13rem;
+  color: white;
+  font-weight: bold;
+
+}
